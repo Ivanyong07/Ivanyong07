@@ -1,5 +1,3 @@
-# ivanyong07
-
 > Product vision and technical ownership.
 
 **Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
