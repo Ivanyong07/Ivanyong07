@@ -1,9 +1,3 @@
-> Product vision and technical ownership.
-
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
-## Header
-Hi, I'm **ivanyong07**. This README is tuned for **founder** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ivanyong07&theme=github-dark&mode=light" />
